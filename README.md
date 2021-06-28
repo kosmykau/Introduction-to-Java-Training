@@ -1,2 +1,2 @@
-# Introduction-to-Java-Training
+# IntroductiontoJavaTraining
 Training tasks
