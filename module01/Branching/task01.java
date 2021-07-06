@@ -15,7 +15,7 @@ public class task01 {
 				System.out.println("Треугольник прямоугольный");
 			}
 			
-		}else {
+		} else {
 			System.out.println("Такого треугольника не существует");
 		}
 		
