@@ -13,17 +13,17 @@ public class task02 {
 		
 		if (a < b) {
 			min1 = a;
-		}else {
+		} else {
 			min1 = b;
 		}	
 		if (c < d) {
 			min2 = c;
-		}else {
+		} else {
 			min2 = d;
 		}
 		if (min1 > min2) {
 			max = min1;
-		}else {
+		} else {
 			max = min2;
 		}
 		
