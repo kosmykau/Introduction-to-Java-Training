@@ -2,7 +2,7 @@ package com.epam.module01.main;
 //Дано натуральное число Т, которое представляет длительность прошедшего времени в секундах.
 //Вывести данное значение длительности в минутах и секундах на следующей форме:
 //ННч ММмин SSс
-public class Main22 {
+public class task05 {
 	
 	public static void main(String[] args) {
 		
