@@ -8,17 +8,12 @@ public class Main4 {
 		double b;
 		double c;
 		double z;
+		double temp;
 		
 		a = 5;
 		b = 2;
 		c = 1;
-//		
-//		z = ( (a - 3) * b / 2) + c;
-//		
-//		System.out.println("z = " + z);
-		
-		double temp;
-		
+
 		temp = a - 3;
 		temp = temp * b;
 		temp = temp / 2;
