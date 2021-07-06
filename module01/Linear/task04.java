@@ -1,7 +1,7 @@
 package com.epam.module01.main;
 //Дано действительное число R вида nnn.ddd (3 цифровых разряда в дробной и целой
 // частях). Поменять местами дробную и целую части и вывести полученное значение числа.
-public class Main21 {
+public class task04 {
 	
 	public static void main(String[] args) {
 		
