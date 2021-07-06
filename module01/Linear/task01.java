@@ -1,5 +1,5 @@
 package com.epam.module01.main;
-//4.Найдите значение функции:z=((a–3)*b/2)+c.
+//1.Найдите значение функции:z=((a–3)*b/2)+c.
 public class Main4 {
 	
 	public static void main(String[] agrs) {
