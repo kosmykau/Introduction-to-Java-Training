@@ -3,21 +3,19 @@ package com.epam.module01.cycles;
 import java.util.Scanner;
 public class task01_1 {
 
-	public static void main(String[] args) {
+    public static void main(String[] args) {
 		
-		int number;
-		int sum = 0;
+	int number;
+	int sum = 0;
 		
-		System.out.println("Введите целое положительное число:");
-		Scanner scan = new Scanner(System.in);
-		number = scan.nextInt();
+	System.out.println("Введите целое положительное число:");
+	Scanner scan = new Scanner(System.in);
+	number = scan.nextInt();
 		
-		for (int i = 1; i <= number; i ++)
-			sum = sum + i;
+	for (int i = 1; i <= number; i ++)
+	     sum = sum + i;
 		
-		System.out.println("Сумма чисел о 1 до " + number + " равна " + sum);
-		
-
+	System.out.println("Сумма чисел о 1 до " + number + " равна " + sum);
+	    
 	}
-
 }
